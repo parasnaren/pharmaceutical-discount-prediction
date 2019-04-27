@@ -8,6 +8,7 @@ Achieved a kaggle competition winning **multiclass log loss of 0.38**
 - Train.csv
 - test.csv
 - Product_sales_train_and_test.csv
+- product_details.csv
 
 # Code file
 - dis_pred.py
